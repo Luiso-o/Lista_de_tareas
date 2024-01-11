@@ -29,3 +29,5 @@
 * ¡Esperamos que esta aplicación de Lista de Tareas haga tu vida más organizada y te ayude a lograr tus objetivos diarios! 🌟 ¡Disfruta organizando! 🚀📅
 
 * <a href = "https://www.youtube.com/watch?v=koiPxFFiqJ4&t=17007s">⭐️ Proyectos ⭐️ Lista de Tareas Pendientes</a>
+
+![Capture](https://github.com/Luiso-o/Lista_de_tareas/assets/128043647/d2ec6495-301d-42ab-9093-f45c9bf4f187)
