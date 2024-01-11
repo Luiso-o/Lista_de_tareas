@@ -2,6 +2,8 @@
 
 * ¡Bienvenido al proyecto de Lista de Tareas! 🚀 Este proyecto tiene como objetivo proporcionarte una aplicación sencilla y eficiente para gestionar tus tareas diarias de manera organizada y divertida. Aquí tienes un resumen de las características clave:
 
+<a href="https://luiso-o.github.io/Lista_de_tareas/" target="_blank">Link para ver el proyecto con GitHub Pages 😊🔗</a>
+
 ### Características Principales:
 
 1. 🎉 **Interfaz Atractiva:** Diseño limpio y agradable con fondo de pantalla personalizado para motivarte.
